@@ -1,0 +1,7 @@
+time,strategy,identifier,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2023-01-03 09:30:00-05:00,BuyEveryDay,23266edeffad4738ae97bbe6c1171219,AAPL,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-01-03 09:30:00-05:00,BuyEveryDay,23266edeffad4738ae97bbe6c1171219,AAPL,buy,market,fill,1,gtc,0.0,1,stock,130.27999877929688,767.5775325221392,0.0
+2023-02-13 09:30:00-05:00,BuyEveryDay,f608570f87e24cc898f32782ec9426f0,AAPL,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-02-13 09:30:00-05:00,BuyEveryDay,f608570f87e24cc898f32782ec9426f0,AAPL,buy,market,fill,1,gtc,0.0,1,stock,150.9499969482422,1.169545121227297,0.0
+2023-11-13 09:30:00-05:00,BuyEveryDay,47a58a3b61104582972bf0c498b921dd,AAPL,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-11-13 09:30:00-05:00,BuyEveryDay,47a58a3b61104582972bf0c498b921dd,AAPL,buy,market,fill,1,gtc,0.0,1,stock,185.82000732421875,0.9928925377367658,0.0

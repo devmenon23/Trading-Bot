@@ -1,0 +1,5 @@
+time,strategy,identifier,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2015-01-02 09:30:00-05:00,BuyEveryDay,2f03d8ab702d473d85f3bfb8777fc4eb,AAPL,buy,market,new,1,gtc,0.0,1,stock,,,
+2015-01-02 09:30:00-05:00,BuyEveryDay,2f03d8ab702d473d85f3bfb8777fc4eb,AAPL,buy,market,fill,1,gtc,0.0,1,stock,27.84749984741211,3590.986643251318,0.0
+2022-11-07 09:30:00-05:00,BuyEveryDay,e7a91f56c6e54a77bcf1a2ce517ef4f8,AAPL,buy,market,new,1,gtc,0.0,1,stock,,,
+2022-11-07 09:30:00-05:00,BuyEveryDay,e7a91f56c6e54a77bcf1a2ce517ef4f8,AAPL,buy,market,fill,1,gtc,0.0,1,stock,137.11000061035156,6.023827031370074,0.0
